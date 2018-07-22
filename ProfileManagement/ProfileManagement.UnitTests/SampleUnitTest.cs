@@ -20,7 +20,7 @@ namespace ProfileManagement.ProfileManagement.UnitTests
         [Test]
         public void SampleUnitTestFail()
         {
-            Assert.False(false);
+            //Assert.False(false);
         }
     }
 }
