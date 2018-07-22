@@ -3,9 +3,9 @@
 
 # User-specific files
 *.suo
-*.user
+!*.user
 *.userosscache
-*.sln.docstates
+!*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -172,7 +172,7 @@ BundleArtifacts/
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
-!*.[Cc]ache
+*.[Cc]ache
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
 
